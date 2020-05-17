@@ -7,8 +7,7 @@
     },
     "scripts": {
         "build": "webpack --mode production",
-        "start": "webpack-dev-server --mode development --open",
-        "heroku-postbuild": "ng build --prod"
+        "start": "webpack-dev-server --mode development --open"
     },
     "license": "MIT",
     "dependencies": {
